@@ -1,0 +1,369 @@
+/* ------------ TopBar Wrapper ------------------- */
+
+.topbar-wrapper {
+   display: flex;
+   border-bottom: 1px solid #e0e0e0;
+   justify-content: space-between;
+   padding: 1rem 0.5rem;
+}
+
+.dszyln {
+   display: flex;
+   align-items: center;
+}
+
+.qxwfmv {
+   display: flex;
+   align-items: center;
+   margin: 0 1rem;
+}
+
+.qxwfmv div {
+   margin-right: 0.5rem;
+}
+
+.qxwfmv p {
+   font-size: 0.75rem;
+}
+
+.fkqlhu {
+   display: flex;
+}
+
+.fkqlhu div {
+   margin: 0 0.25rem;
+}
+
+.fkqlhu a:hover {
+   color: #009cff;
+}
+
+/* ---------------------- TopBar Wrapper End ------------------- */
+
+/* ------------------------ICON_BAR ----------------------- */
+
+.icon-bar {
+   display: flex;
+   justify-content: space-between;
+   align-content: center;
+   padding: 1rem;
+}
+
+.icon-set {
+   margin: 1rem;
+}
+
+.icon {
+   display: flex;
+   align-items: center;
+}
+
+.icon a {
+   display: flex;
+   align-items: center;
+   color: #009cff;
+}
+
+.icon img {
+   width: 3.1rem;
+}
+
+.icon p {
+   font-family: "Potta One", cursive;
+   margin-left: 0.5rem;
+   font-size: 1.2rem;
+}
+
+.address-time {
+   display: flex;
+   align-items: center;
+}
+
+.contact-dv {
+   margin: 1rem;
+   display: flex;
+   align-items: center;
+}
+
+.btn-set {
+   margin: 1rem;
+}
+
+.address-para {
+   font-size: 0.6rem;
+}
+
+.phone-number {
+   color: #009cff;
+   font-size: 0.8rem;
+   font-weight: bold;
+}
+
+.btn-appoint {
+   padding: 0.7rem 0.5rem;
+   background-color: #009cff;
+   color: white;
+   font-family: inherit;
+   font-weight: bold;
+   letter-spacing: 1px;
+   border: none;
+   font-size: 0.7rem;
+}
+
+.btn-appoint:focus {
+   outline: none;
+}
+
+/* ----------------------- Icon Bar End ----------------- */
+
+/* ------------------- Background Image section ---------------- */
+
+.zeaqcx {
+   height: 36rem;
+   background: url("./images/1393334.jpg") 100% 100% / cover no-repeat
+      border-box;
+   position: relative;
+}
+
+.zeaqcx div {
+   width: 40%;
+   color: white;
+   position: absolute;
+}
+
+/* ------------------- Background Image section End ---------------- */
+
+#why {
+   margin-top: 5rem;
+   margin-bottom: 4rem;
+}
+
+#why .card-head {
+   text-align: center;
+}
+#why .card-head h2,
+#why .card-head p {
+   padding-bottom: 1rem;
+}
+
+#why .card-body {
+   display: flex;
+   text-align: center;
+   justify-content: space-around;
+   align-items: center;
+}
+
+#why .card-body .card {
+   width: 30%;
+   height: 350px;
+   background-color: #f5f5f5;
+   padding: 2rem;
+   line-height: 1.5rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+}
+#why .card-body .card i {
+   width: 100px;
+   height: 100px;
+   background-color: #009cff;
+   color: #fff;
+   border-radius: 50%;
+   padding: 1.4rem;
+   margin-bottom: 1rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+#why .card-body .card p {
+   margin-bottom: 1rem;
+}
+
+/* -----------------Who We Are Section------------- */
+
+.ylhvic {
+   width: 80%;
+   margin: 2rem auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 24rem;
+   background-color: #f5f5f5;
+}
+
+.fydwae {
+   width: 45%;
+   padding: 1rem 3rem;
+}
+
+.fydwae p {
+   margin: 1.5rem 0;
+   font-size: 0.9rem;
+   color: #222;
+   line-height: 1.75;
+}
+
+.fydwae button {
+   padding: 1rem 1.5rem;
+   background-color: #009cff;
+   color: white;
+   border: none;
+   font-weight: bold;
+   letter-spacing: 1px;
+   font-family: inherit;
+}
+
+.ulzikv {
+   height: 100%;
+   width: 50%;
+}
+
+.osnpks {
+   height: 100%;
+   background: url("./images/download.jfif") center / cover no-repeat repeat;
+}
+
+/* -----------------Who We Are Section End------------- */
+
+/*---------------------- Main Section ------------------*/
+
+.zbidpl {
+   margin: 4rem 0;
+}
+
+.wmxxfn {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 1.5rem;
+}
+
+.ssriyk {
+   width: 40px;
+   height: 1px;
+   background-color: #009cff;
+   margin-top: 0.5rem;
+}
+
+.aoznqa {
+   margin: auto;
+   width: 41%;
+   text-align: center;
+   color: #333;
+}
+
+/* -------------------- OUR SERVICES SECTION --------------------- */
+
+.gojcqw {
+   margin: 2rem 0;
+}
+
+/*---------- Flex 1 and 2 section styles ------*/
+
+.qocolk {
+   display: flex;
+   justify-content: space-between;
+   width: 80%;
+   margin: auto;
+   padding: 0 2rem;
+}
+
+#kxfdsh {
+   margin-bottom: 2rem;
+}
+
+.awtngg {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   height: 22rem;
+   width: 32%;
+}
+
+.gcbfhd {
+   height: 12rem;
+   width: 100%;
+}
+
+#klmhao {
+   background: url("./images/download\ \(1\).jfif") center / cover no-repeat
+      border-box;
+}
+
+.mbtraj {
+   font-family: "Montserrat", sans-serif;
+   font-size: 0.85rem;
+   color: #333;
+   letter-spacing: 1px;
+}
+
+.tjsewi {
+   color: #333;
+   font-size: 0.9rem;
+   line-height: 1.5;
+}
+
+.rogttn {
+   background-color: #009cff;
+   color: white;
+   padding: 0.5rem;
+   border: none;
+   font-weight: bold;
+   letter-spacing: 1px;
+   font-family: inherit;
+   font-size: 0.6rem;
+}
+
+#gkobrg {
+   background: url("./images/download\ \(2\).jfif") center / cover no-repeat
+      border-box;
+}
+
+#hjpwiq {
+   background: url("./images/download\ \(3\).jfif") center / cover no-repeat
+      border-box;
+}
+
+#plvdpa {
+   background: url("./images/download\ \(4\).jfif") center / cover no-repeat
+      border-box;
+}
+
+#fkzjlf {
+   background: url("./images/download\ \(5\).jfif") center / cover no-repeat
+      border-box;
+}
+
+#tlfsvf {
+   background: url("./images/download\ \(6\).jfif") center / cover no-repeat
+      border-box;
+}
+
+/* -------------------- OUR SERVICES SECTION End --------------------- */
+
+/* ----------------------Total Work section ------------------------ */
+
+.duryaw {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background: #009cff url("./images/pattern3.png") repeat border-box;
+   padding: 1rem;
+   margin-top: 4rem;
+}
+
+.wqdgzh {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+   width: 20%;
+   height: 10rem;
+   color: white;
+   padding: 1rem;
+   text-align: center;
+}
+
+/* ----------------------Total Work section End ------------------------ */

@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+body {
+   font-family: "Open Sans", sans-serif;
+}
+
+a {
+   text-decoration: none;
+}
+
+/* ------------------- Navigation Coding ---------------- */
+
+.erenzj {
+   background-color: #1d1d1d;
+   display: flex;
+   padding: 1rem 1.5rem;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.aifwqz {
+   list-style-type: none;
+   display: flex;
+}
+
+.vtsddw {
+   margin: 0 1rem;
+}
+
+.vtsddw a {
+   color: white;
+   padding: 0.2rem;
+   font-size: 0.75rem;
+   letter-spacing: 1px;
+}
+
+.axtvvr a:hover,
+.axtvvr a:active {
+   border-bottom: 2px solid white;
+}
+
+.fa-search {
+   color: white;
+}
+
+/* ------------------- Navigation Coding End ---------------- */
+
+/********** Footer **********/
+#main-footer {
+   background-color: #333;
+   color: #fff;
+   padding: 1rem;
+   font-size: 0.8rem;
+}
+#main-footer .container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 80%;
+   margin: auto;
+}
+#main-footer a {
+   color: #fff;
+   text-decoration: none;
+}
+#main-footer a:hover {
+   color: #009cff;
+}
+#main-footer .navbar-links {
+   display: flex;
+   align-items: center;
+}
+#main-footer .navbar-links a {
+   margin-right: 20px;
+}
+#main-footer ul {
+   list-style: none;
+}
